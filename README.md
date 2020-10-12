@@ -1,3 +1,3 @@
 # Logistic-Regression-using-Python
 Logistic Regression using Python.
-datasets:claimants
+datasets:claimants,bank-full
