@@ -57,5 +57,5 @@ In **Supervised Learning** we have :
           Python
  
  
-## **The Codes regarding this Logistic Regression model with different business problems *Claimants ,Bank-full*  with their datasets are present in this Repository in detail**
+**The Codes regarding this Logistic Regression model with different business problems *Claimants ,Bank-full*  with their datasets are present in this Repository in detail**
           
